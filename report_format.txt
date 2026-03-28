@@ -1,0 +1,359 @@
+MARWADI UNIVERSITY, RAJKOT 
+Faculty of Technology 
+Department of AI, ML & DS 
+  
+PROJECT REPORT 
+Title of the Project (Font: Times New Roman, Size: 16, Bold, 
+Centered) 
+Semester:  IV 
+Branch: CSE-AI/ CSE-AI & ML/ CSE-AI & DS/BS-AI & DS/BS-AI & ML 
+Academic Year: 2025-26 
+Submitted on:  __/__/2026 
+ 
+Team Details 
+Sr. 
+No. 
+Enrollment Number Student Name  Division 
+1  (Font: Times New Roman, Size: 12)  
+2    
+3    
+4    
+5    
+6    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+1                                                                                                                 [Title of the Project] 
+ 
+INDEX  
+(Font inside table: Times New Roman, Size: 12) 
+Sr. No. Topic Page No. 
+I Index 1 
+II Abstract 2 
+1 Introduction 3 
+2 Background 4 
+3 Literature Review 5 
+4 Project Description 6 
+4.1   Methodology 7 
+4.2   Implementation / System Design 8 
+4.3   Results / Analysis 8 
+4.4   Applications 9 
+4.5   Limitations and Future Work 10 
+5 Code / Technical Implementation 11 
+5.1   Program Structure 12 
+5.2   Code Explanation 13 
+5.3   Input and Output 13 
+5.4   Output Explanation 14 
+6 Team Contribution 15 
+7 Conclusion 16 
+8 References 17 
+   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+2                                                                                                                 [Title of the Project] 
+ 
+ABSTRACT  
+[Write your abstract here. Include: what problem is being solved, why it matters, what 
+approach/methods were used, what were the key results, and what is the impact.] 
+(Font: Times New Roman, Size: 12, Italic) 
+The abstract provides a concise summary of the entire project. It describes the problem 
+statement, the approach adopted, the tools and technologies used, key results achieved, and 
+the significance of the project. The abstract should be approximately 150 –250 words and 
+should be written after the project is completed so that it accurately reflects the work done. It 
+must not include citations or references. The reader should be able to understand the essence 
+of the project after reading the abstract. 
+   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+3                                                                                                                 [Title of the Project] 
+ 
+1. INTRODUCTION  
+The introduction sets the context for the project. It provides background information on the 
+topic, identifies the problem being addressed, and states the objectives of the project. This 
+section should motivate the reader and explain why the project is important and relevant in 
+today's context. 
+ 
+1.1  Problem Statement 
+[Describe the specific problem you are solving in this project.] 
+ 
+1.2  Objectives 
+[List the main objectives of your project clearly and concisely.] 
+ 
+1.3  Scope of the Project 
+[Define the boundaries and scope of your project – what is included and what is excluded.] 
+ 
+1.4  Organization of the Report 
+[Briefly describe the structure of the remaining sections of this report.] 
+   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+4                                                                                                                 [Title of the Project] 
+ 
+2. BACKGROUND 
+This section explains the foundational theoretical concepts, principles, and technical 
+background that are essential for understanding the project. It should provide enough 
+background for a reader with general engineering knowledge to understand the technical 
+aspects of the work without requiring deep expertise in the specific domain. 
+ 
+[Include the following sub-sections as applicable:] 
+ 
+2.1  Key Concepts and Definitions 
+[Define important technical terms and concepts used in the project.] 
+ 
+2.2  Theoretical Framework 
+[Describe the theoretical basis and working principles underlying the project.] 
+ 
+2.3  Technologies / Tools Used 
+[Briefly describe the main technologies, frameworks, hardware, or software tools used in the 
+project and justify their selection.] 
+   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+5                                                                                                                 [Title of the Project] 
+ 
+3. LITERATURE REVIEW 
+The literature review presents a critical analysis of existing research, projects, and 
+publications related to the topic. It demonstrates that the team has studied the relevant work 
+in the field and helps identify the gap that this project addresses. Each reviewed source 
+should be discussed in terms of its contribution, methodology, and relevance to the current 
+project. 
+ 
+[Author, Year] – [Brief description of what the paper/project is about, key findings, and how 
+it is relevant to your project.] 
+ 
+[Author, Year] – [Brief description of what the paper/project is about, key findings, and how 
+it is relevant to your project.] 
+ 
+[Author, Year] – [Brief description of what the paper/project is about, key findings, and how 
+it is relevant to your project.] 
+ 
+Summary: [Write a short paragraph summarizing the overall findings from the literature 
+review and identify the research gap or opportunity that your project addresses.] 
+   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+6                                                                                                                 [Title of the Project] 
+ 
+4. PROJECT DESCRIPTION 
+This section provides a comprehensive description of the project, covering the methodology 
+followed, the implementation details, the results obtained, practical applications, and the 
+limitations encountered during the project development. 
+4.1  Methodology 
+[Describe the overall approach and methodology adopted for the project. Include the step-by-
+step process followed, the rationale behind selecting this approach, and any alternative 
+methods that were considered and rejected. You may include flowcharts, process diagrams, 
+or block diagrams here to illustrate the methodology.] 
+ 
+  •  Phase 1: [Requirement Analysis / Literature Survey] 
+  •  Phase 2: [System Design] 
+  •  Phase 3: [Implementation / Coding] 
+  •  Phase 4: [Testing and Validation] 
+  •  Phase 5: [Result Analysis and Conclusion] 
+4.2  Implementation / System Design 
+[Provide a detailed description of the system architecture, design decisions, and 
+implementation. Include: 
+ 
+  •  System Architecture / Block Diagram 
+  •  Hardware and Software Requirements 
+  •  Detailed Design Description 
+  •  Data Flow Diagrams (if applicable) 
+  •  Database Design (if applicable) 
+  •  Module-wise description of the implementation 
+ 
+Include relevant figures, tables, and screenshots where appropriate.] 
+4.3  Results / Analysis  
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+7                                                                                                                 [Title of the Project] 
+ 
+[Present the results obtained from the project. This section should include: 
+ 
+  •  Experimental setup and test conditions 
+  •  Tables and graphs showing data and measurements 
+  •  Screenshots of the working system 
+  •  Comparison with expected or benchmark values 
+  •  Analysis and interpretation of the results 
+ 
+Use clear labels for all figures and tables. Analyze whether the results meet the project 
+objectives defined in the introduction.] 
+4.4  Applications 
+[Describe the real-world applications of the project. Explain: 
+ 
+  •  Where and how this project can be deployed in practice 
+  •  Industries or sectors that can benefit from this work 
+  •  Potential users of the system 
+  •  Economic, social, or environmental impact of the project 
+ 
+Provide concrete examples to support each application mentioned.] 
+4.5  Limitations and Future Work 
+[Discuss the limitations encountered during the project and suggest improvements for future 
+work: 
+ 
+Limitations: 
+  •  [Limitation 1: Describe the limitation and its impact on the project.] 
+  •  [Limitation 2: Describe the limitation and its impact on the project.] 
+ 
+Future Work:  
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+8                                                                                                                 [Title of the Project] 
+ 
+  •  [Suggestion 1: How can the project be improved or extended in the future?] 
+  •  [Suggestion 2: What additional features or functionality could be added?] 
+  •  [Suggestion 3: What research questions does this project open up?] 
+   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+9                                                                                                                 [Title of the Project] 
+ 
+5. CODE / TECHNICAL IMPLEMENTATION 
+This section provides the technical details of the code written and the implementation carried 
+out during the project. It covers the program structure, explanations of key code segments, and 
+the input/output behavior of the system. 
+5.1  Program Structure 
+[Describe the overall structure of the program/project codebase: 
+ 
+  •  List of all major files/modules and their purpose 
+  •  Folder/directory structure 
+  •  Technology stack used (programming language, libraries, frameworks) 
+  •  Dependencies and third-party packages 
+ 
+Example: 
+  main.py         – Main entry point of the application 
+  config.py       – Configuration settings 
+  models/         – Database models / ML models 
+  utils/          – Utility functions 
+  tests/          – Unit test files] 
+5.2  Code Explanation 
+[Provide explanation of the most important code segments. For each important function or 
+module: 
+ 
+  •  Paste the relevant code snippet 
+  •  Explain what the code does line by line or block by block 
+  •  Describe algorithms and data structures used 
+  •  Highlight any complex logic or design patterns used 
+  
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+10                                                                                                                 [Title of the Project] 
+ 
+Note: Use Courier New, 10pt font for code blocks. Focus on the most critical parts of the 
+code rather than pasting everything.] 
+# Example Code Block 
+def hello_world(): 
+    print("Hello, World!") 
+    return True 
+ 
+hello_world() 
+5.3  Input and Output 
+[Describe the inputs and outputs of the system: 
+ 
+Input: 
+  •  Type of input data (text, image, sensor data, CSV, etc.) 
+  •  Format and constraints on input 
+  •  Sample input examples 
+ 
+Output: 
+  •  Type of output produced 
+  •  Format of the output 
+  •  Sample output screenshots or data 
+ 
+Include screenshots showing sample inputs and the corresponding outputs.] 
+5.4  Output Explanation 
+[Explain the output obtained from the project in detail: 
+ 
+  •  Describe what each output means and how it should be interpreted 
+  •  Explain how the output is generated from the input 
+  •  Discuss any observed behavior or edge cases 
+  •  Include annotated screenshots or diagrams of the output 
+  •  Explain error handling and what happens with invalid input]   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+11                                                                                                                 [Title of the Project] 
+ 
+6. TEAM CONTRIBUTION 
+The following table lists the contribution of each team member towards the completion of this 
+project. Each member's role and specific tasks are documented below: 
+Enrollment Number Student Name Contribution 
+  [List specific tasks / modules handled] 
+  [List specific tasks / modules handled] 
+  [List specific tasks / modules handled] 
+  [List specific tasks / modules handled] 
+  [List specific tasks / modules handled] 
+ 
+Note: Every team member is expected to have meaningful and balanced contributions to the 
+project. Mere documentation or presentation preparation alone does not constitute a complete 
+technical contribution. 
+   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+12                                                                                                                 [Title of the Project] 
+ 
+7. CONCLUSION 
+This section summarizes the key outcomes and findings of the project. The conclusion should 
+reflect on whether the objectives set in the introduction were successfully achieved and what 
+the overall significance of the work is. 
+ 
+[Summarize the project in 3–5 paragraphs covering the following: 
+ 
+  •  Restate the problem and the approach taken 
+  •  Highlight the key achievements and results 
+  •  Discuss the practical significance and real-world impact 
+  •  Mention what was learned from the project experience 
+  •  Comment on future directions or recommended next steps] 
+ 
+In conclusion, this project successfully [describe what was achieved]. The implementation of 
+[technology/methodology] demonstrated [key finding]. The results indicate that [outcome], 
+which is consistent with [reference/expected behavior]. The project has practical applications 
+in [domain] and can be further extended to [future direction]. 
+   
+FACULTY OF TECHNOLOGY                                                       
+Department of AI, ML & DS  
+01AI0402 - Discrete Mathematical Structure 
+ 
+13                                                                                                                 [Title of the Project] 
+ 
+8. REFERENCES 
+All sources cited in this report are listed below in IEEE / APA format. References should be 
+numbered sequentially in the order they appear in the text. 
+ 
+[1]  Author A. Author, Author B. Author, "Title of the Paper," Journal Name, vol. X, no. Y, 
+pp. XXX–XXX, Month Year. 
+[2]  Author C. Author, "Title of the Book," Publisher Name, City, State, Year. 
+[3]  Author D. Author, "Title of the Conference Paper," in Proc. Conference Name, City, 
+Country, Year, pp. XX–XX. 
+[4]  Author E. Author. (Year). Title of Online Resource. [Online]. Available: 
+https://www.example.com/resource. [Accessed: Day Month Year]. 
+[5]  Author F. Author, "Title of Chapter," in Title of Book, Editor's Name, Ed., Publisher 
+Name, Year, pp. XX–XX. 
+ 
